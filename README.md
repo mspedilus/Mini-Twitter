@@ -1,5 +1,5 @@
 # Mini Twitter
-Mini Twitter is an iOS app made in Swift using Twitter's API. This is a basic twitter app to view, compose, favorite, and retweet tweets.
+Mini Twitter is an iOS app built with Swift using Twitter's API. This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
